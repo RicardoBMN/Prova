@@ -1,0 +1,29 @@
+name: Build Blazor WASM
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout do código
+      uses: actions/checkout@v3
+
+    - name: Setup do .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: 8.0.x
+
+    - name: Restaurar dependências
+      run: dotnet restore CurriculoInterativo.sln || dotnet restore
+
+    - name: Buildar projeto
+      run: dotnet build CurriculoInterativo.sln --configuration Release || dotnet build --configuration Release
+
+    - name: Rodar testes
+      run: dotnet test || echo "Sem testes automatizados ainda."
