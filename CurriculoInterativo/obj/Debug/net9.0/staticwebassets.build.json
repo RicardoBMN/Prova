@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hmaPgnpQCJg0ICU8Wa8MmjyRHm7nUSkiqVZuQ4ODa2s=",
+  "Hash": "7VddElZto+eLx51FP9XIKZdAjO/vCI9gkWFXjnjVJMI=",
   "Source": "CurriculoInterativo",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "t2bjty4huo",
-      "Integrity": "K7wU359ydwaZbAD1EpHPkGuD3PVSgMswB0+bfHSvUZU=",
+      "Fingerprint": "a4lzkzp4qz",
+      "Integrity": "Vhq6JDXTaLf5Af4OTo/YFvj/gu2Rox1L2jrAvKNAobk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "vd7375cz8z",
-      "Integrity": "3ZxpPCNFZ1aSvpUiHZuUxN3unhU6CX/lSYQXYFkAOCM=",
+      "Fingerprint": "298jg2m5de",
+      "Integrity": "ele7PeebkAGjPdTr3+OCSPNn+0KjSWTK6wz/CwfzHcU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/CurriculoInterativo.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "8hlv8lzxw6",
-      "Integrity": "hJU/KjO4knqFUtb8dYCntDcKq58BgxLpFEhxsv/0lRQ=",
+      "Fingerprint": "5mzrnp84q1",
+      "Integrity": "8xd1YtPlqWe9DLrVPKTQXKyFaefCA+np+/pduNidc6s=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/webcil/CurriculoInterativo.wasm"
@@ -5561,7 +5561,7 @@
       "OriginalItemSpec": "/Users/ricardob/Documents/Prova/CurriculoInterativo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/81c9wb6xnr-t2bjty4huo.gz",
+      "Identity": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/81c9wb6xnr-a4lzkzp4qz.gz",
       "SourceId": "CurriculoInterativo",
       "SourceType": "Computed",
       "ContentRoot": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/",
@@ -5575,8 +5575,8 @@
       "RelatedAsset": "/Users/ricardob/Documents/Prova/CurriculoInterativo/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wvvpvrkh9j",
-      "Integrity": "rLhAnZDpt5gMEQk6ugtwtaxxmT1UCYyGfbnzAMoSt9o=",
+      "Fingerprint": "noz0h1yps5",
+      "Integrity": "WZacbBIxHf7EH3DiD+qrwq6xs6+mSyGw9DHuFN3gxow=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ricardob/Documents/Prova/CurriculoInterativo/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -6926,12 +6926,12 @@
       "OriginalItemSpec": "/Users/ricardob/Documents/Prova/CurriculoInterativo/bin/Debug/net9.0/wwwroot/_framework/System.ComponentModel.Annotations.wasm"
     },
     {
-      "Identity": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/fb5wa3i8sh-vd7375cz8z.gz",
+      "Identity": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/fb5wa3i8sh-298jg2m5de.gz",
       "SourceId": "CurriculoInterativo",
       "SourceType": "Computed",
       "ContentRoot": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/CurriculoInterativo#[.{fingerprint=vd7375cz8z}]!.pdb.gz",
+      "RelativePath": "_framework/CurriculoInterativo#[.{fingerprint=298jg2m5de}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6940,8 +6940,8 @@
       "RelatedAsset": "/Users/ricardob/Documents/Prova/CurriculoInterativo/bin/Debug/net9.0/wwwroot/_framework/CurriculoInterativo.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wzblrbknid",
-      "Integrity": "BMl8nIX6avS80uc0yVKmWKwO6zQLTSV7sbiqvKQfl0w=",
+      "Fingerprint": "nxv5gyg2c4",
+      "Integrity": "FXcOYz9xcoLKlVRCckOmturPdHQOezfqpINeduvN1GY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ricardob/Documents/Prova/CurriculoInterativo/bin/Debug/net9.0/wwwroot/_framework/CurriculoInterativo.pdb"
@@ -8774,12 +8774,12 @@
       "OriginalItemSpec": "/Users/ricardob/Documents/Prova/CurriculoInterativo/bin/Debug/net9.0/wwwroot/_framework/dotnet.native.wasm"
     },
     {
-      "Identity": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/tg214clj6i-8hlv8lzxw6.gz",
+      "Identity": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/tg214clj6i-5mzrnp84q1.gz",
       "SourceId": "CurriculoInterativo",
       "SourceType": "Computed",
       "ContentRoot": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/CurriculoInterativo#[.{fingerprint=8hlv8lzxw6}]!.wasm.gz",
+      "RelativePath": "_framework/CurriculoInterativo#[.{fingerprint=5mzrnp84q1}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8788,8 +8788,8 @@
       "RelatedAsset": "/Users/ricardob/Documents/Prova/CurriculoInterativo/bin/Debug/net9.0/wwwroot/_framework/CurriculoInterativo.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "q3wlsh47xu",
-      "Integrity": "OuoUNyjBRdbfAHCFx1zdvGVkn5cELI1G5gjIdpkNko8=",
+      "Fingerprint": "o1f0eutmye",
+      "Integrity": "1F0xiaKpBc6NZgdGFqIqsNAH/FP/AnoCDIUOEghdKOc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ricardob/Documents/Prova/CurriculoInterativo/bin/Debug/net9.0/wwwroot/_framework/CurriculoInterativo.wasm"
@@ -10747,7 +10747,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K7wU359ydwaZbAD1EpHPkGuD3PVSgMswB0+bfHSvUZU=\""
+          "Value": "\"Vhq6JDXTaLf5Af4OTo/YFvj/gu2Rox1L2jrAvKNAobk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:07:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vhq6JDXTaLf5Af4OTo/YFvj/gu2Rox1L2jrAvKNAobk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/81c9wb6xnr-a4lzkzp4qz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000081294204"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12300"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WZacbBIxHf7EH3DiD+qrwq6xs6+mSyGw9DHuFN3gxow=\""
         },
         {
           "Name": "Last-Modified",
@@ -10756,45 +10795,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-K7wU359ydwaZbAD1EpHPkGuD3PVSgMswB0+bfHSvUZU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/81c9wb6xnr-t2bjty4huo.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000081274382"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12303"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rLhAnZDpt5gMEQk6ugtwtaxxmT1UCYyGfbnzAMoSt9o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:48:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10810,19 +10810,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"K7wU359ydwaZbAD1EpHPkGuD3PVSgMswB0+bfHSvUZU=\""
+          "Value": "W/\"Vhq6JDXTaLf5Af4OTo/YFvj/gu2Rox1L2jrAvKNAobk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-K7wU359ydwaZbAD1EpHPkGuD3PVSgMswB0+bfHSvUZU="
+          "Value": "sha256-Vhq6JDXTaLf5Af4OTo/YFvj/gu2Rox1L2jrAvKNAobk="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/81c9wb6xnr-t2bjty4huo.gz",
+      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/81c9wb6xnr-a4lzkzp4qz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10831,7 +10831,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12303"
+          "Value": "12300"
         },
         {
           "Name": "Content-Type",
@@ -10839,11 +10839,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rLhAnZDpt5gMEQk6ugtwtaxxmT1UCYyGfbnzAMoSt9o=\""
+          "Value": "\"WZacbBIxHf7EH3DiD+qrwq6xs6+mSyGw9DHuFN3gxow=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:48:30 GMT"
+          "Value": "Fri, 04 Apr 2025 13:00:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10861,7 +10861,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rLhAnZDpt5gMEQk6ugtwtaxxmT1UCYyGfbnzAMoSt9o="
+          "Value": "sha256-WZacbBIxHf7EH3DiD+qrwq6xs6+mSyGw9DHuFN3gxow="
         }
       ]
     },
@@ -11003,168 +11003,7 @@
       ]
     },
     {
-      "Route": "_framework/CurriculoInterativo.8hlv8lzxw6.wasm",
-      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/bin/Debug/net9.0/wwwroot/_framework/CurriculoInterativo.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19221"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hJU/KjO4knqFUtb8dYCntDcKq58BgxLpFEhxsv/0lRQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:48:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8hlv8lzxw6"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/CurriculoInterativo.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hJU/KjO4knqFUtb8dYCntDcKq58BgxLpFEhxsv/0lRQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CurriculoInterativo.8hlv8lzxw6.wasm",
-      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/tg214clj6i-8hlv8lzxw6.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000123793018"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8077"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OuoUNyjBRdbfAHCFx1zdvGVkn5cELI1G5gjIdpkNko8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:48:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"hJU/KjO4knqFUtb8dYCntDcKq58BgxLpFEhxsv/0lRQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8hlv8lzxw6"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/CurriculoInterativo.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hJU/KjO4knqFUtb8dYCntDcKq58BgxLpFEhxsv/0lRQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CurriculoInterativo.8hlv8lzxw6.wasm.gz",
-      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/tg214clj6i-8hlv8lzxw6.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8077"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OuoUNyjBRdbfAHCFx1zdvGVkn5cELI1G5gjIdpkNko8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:48:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8hlv8lzxw6"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/CurriculoInterativo.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-OuoUNyjBRdbfAHCFx1zdvGVkn5cELI1G5gjIdpkNko8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CurriculoInterativo.pdb",
+      "Route": "_framework/CurriculoInterativo.298jg2m5de.pdb",
       "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/bin/Debug/net9.0/wwwroot/_framework/CurriculoInterativo.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11174,7 +11013,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23604"
+          "Value": "23776"
         },
         {
           "Name": "Content-Type",
@@ -11182,148 +11021,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3ZxpPCNFZ1aSvpUiHZuUxN3unhU6CX/lSYQXYFkAOCM=\""
+          "Value": "\"ele7PeebkAGjPdTr3+OCSPNn+0KjSWTK6wz/CwfzHcU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:48:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3ZxpPCNFZ1aSvpUiHZuUxN3unhU6CX/lSYQXYFkAOCM="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CurriculoInterativo.pdb",
-      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/fb5wa3i8sh-vd7375cz8z.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000058190282"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17184"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BMl8nIX6avS80uc0yVKmWKwO6zQLTSV7sbiqvKQfl0w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:48:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"3ZxpPCNFZ1aSvpUiHZuUxN3unhU6CX/lSYQXYFkAOCM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3ZxpPCNFZ1aSvpUiHZuUxN3unhU6CX/lSYQXYFkAOCM="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CurriculoInterativo.pdb.gz",
-      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/fb5wa3i8sh-vd7375cz8z.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17184"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BMl8nIX6avS80uc0yVKmWKwO6zQLTSV7sbiqvKQfl0w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:48:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-BMl8nIX6avS80uc0yVKmWKwO6zQLTSV7sbiqvKQfl0w="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CurriculoInterativo.vd7375cz8z.pdb",
-      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/bin/Debug/net9.0/wwwroot/_framework/CurriculoInterativo.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23604"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3ZxpPCNFZ1aSvpUiHZuUxN3unhU6CX/lSYQXYFkAOCM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:48:30 GMT"
+          "Value": "Fri, 04 Apr 2025 13:07:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11333,7 +11035,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vd7375cz8z"
+          "Value": "298jg2m5de"
         },
         {
           "Name": "label",
@@ -11341,18 +11043,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3ZxpPCNFZ1aSvpUiHZuUxN3unhU6CX/lSYQXYFkAOCM="
+          "Value": "sha256-ele7PeebkAGjPdTr3+OCSPNn+0KjSWTK6wz/CwfzHcU="
         }
       ]
     },
     {
-      "Route": "_framework/CurriculoInterativo.vd7375cz8z.pdb",
-      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/fb5wa3i8sh-vd7375cz8z.gz",
+      "Route": "_framework/CurriculoInterativo.298jg2m5de.pdb",
+      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/fb5wa3i8sh-298jg2m5de.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000058190282"
+          "Quality": "0.000057720058"
         }
       ],
       "ResponseHeaders": [
@@ -11362,15 +11064,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17184"
+          "Value": "17324"
         },
         {
           "Name": "ETag",
-          "Value": "\"BMl8nIX6avS80uc0yVKmWKwO6zQLTSV7sbiqvKQfl0w=\""
+          "Value": "\"FXcOYz9xcoLKlVRCckOmturPdHQOezfqpINeduvN1GY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:48:30 GMT"
+          "Value": "Fri, 04 Apr 2025 13:07:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11390,13 +11092,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"3ZxpPCNFZ1aSvpUiHZuUxN3unhU6CX/lSYQXYFkAOCM=\""
+          "Value": "W/\"ele7PeebkAGjPdTr3+OCSPNn+0KjSWTK6wz/CwfzHcU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vd7375cz8z"
+          "Value": "298jg2m5de"
         },
         {
           "Name": "label",
@@ -11404,13 +11106,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3ZxpPCNFZ1aSvpUiHZuUxN3unhU6CX/lSYQXYFkAOCM="
+          "Value": "sha256-ele7PeebkAGjPdTr3+OCSPNn+0KjSWTK6wz/CwfzHcU="
         }
       ]
     },
     {
-      "Route": "_framework/CurriculoInterativo.vd7375cz8z.pdb.gz",
-      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/fb5wa3i8sh-vd7375cz8z.gz",
+      "Route": "_framework/CurriculoInterativo.298jg2m5de.pdb.gz",
+      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/fb5wa3i8sh-298jg2m5de.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11419,7 +11121,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17184"
+          "Value": "17324"
         },
         {
           "Name": "Content-Type",
@@ -11427,11 +11129,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BMl8nIX6avS80uc0yVKmWKwO6zQLTSV7sbiqvKQfl0w=\""
+          "Value": "\"FXcOYz9xcoLKlVRCckOmturPdHQOezfqpINeduvN1GY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:48:30 GMT"
+          "Value": "Fri, 04 Apr 2025 13:07:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11449,7 +11151,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vd7375cz8z"
+          "Value": "298jg2m5de"
         },
         {
           "Name": "label",
@@ -11457,7 +11159,305 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BMl8nIX6avS80uc0yVKmWKwO6zQLTSV7sbiqvKQfl0w="
+          "Value": "sha256-FXcOYz9xcoLKlVRCckOmturPdHQOezfqpINeduvN1GY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CurriculoInterativo.5mzrnp84q1.wasm",
+      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/bin/Debug/net9.0/wwwroot/_framework/CurriculoInterativo.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8xd1YtPlqWe9DLrVPKTQXKyFaefCA+np+/pduNidc6s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:07:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5mzrnp84q1"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/CurriculoInterativo.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8xd1YtPlqWe9DLrVPKTQXKyFaefCA+np+/pduNidc6s="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CurriculoInterativo.5mzrnp84q1.wasm",
+      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/tg214clj6i-5mzrnp84q1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000122219506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8181"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1F0xiaKpBc6NZgdGFqIqsNAH/FP/AnoCDIUOEghdKOc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:07:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8xd1YtPlqWe9DLrVPKTQXKyFaefCA+np+/pduNidc6s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5mzrnp84q1"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/CurriculoInterativo.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8xd1YtPlqWe9DLrVPKTQXKyFaefCA+np+/pduNidc6s="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CurriculoInterativo.5mzrnp84q1.wasm.gz",
+      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/tg214clj6i-5mzrnp84q1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1F0xiaKpBc6NZgdGFqIqsNAH/FP/AnoCDIUOEghdKOc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:07:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5mzrnp84q1"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/CurriculoInterativo.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1F0xiaKpBc6NZgdGFqIqsNAH/FP/AnoCDIUOEghdKOc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CurriculoInterativo.pdb",
+      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/bin/Debug/net9.0/wwwroot/_framework/CurriculoInterativo.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ele7PeebkAGjPdTr3+OCSPNn+0KjSWTK6wz/CwfzHcU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:07:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ele7PeebkAGjPdTr3+OCSPNn+0KjSWTK6wz/CwfzHcU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CurriculoInterativo.pdb",
+      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/fb5wa3i8sh-298jg2m5de.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000057720058"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17324"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FXcOYz9xcoLKlVRCckOmturPdHQOezfqpINeduvN1GY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:07:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ele7PeebkAGjPdTr3+OCSPNn+0KjSWTK6wz/CwfzHcU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ele7PeebkAGjPdTr3+OCSPNn+0KjSWTK6wz/CwfzHcU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CurriculoInterativo.pdb.gz",
+      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/fb5wa3i8sh-298jg2m5de.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17324"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FXcOYz9xcoLKlVRCckOmturPdHQOezfqpINeduvN1GY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:07:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FXcOYz9xcoLKlVRCckOmturPdHQOezfqpINeduvN1GY="
         }
       ]
     },
@@ -11472,7 +11472,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19221"
+          "Value": "19733"
         },
         {
           "Name": "Content-Type",
@@ -11480,11 +11480,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hJU/KjO4knqFUtb8dYCntDcKq58BgxLpFEhxsv/0lRQ=\""
+          "Value": "\"8xd1YtPlqWe9DLrVPKTQXKyFaefCA+np+/pduNidc6s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:48:30 GMT"
+          "Value": "Fri, 04 Apr 2025 13:07:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11494,18 +11494,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hJU/KjO4knqFUtb8dYCntDcKq58BgxLpFEhxsv/0lRQ="
+          "Value": "sha256-8xd1YtPlqWe9DLrVPKTQXKyFaefCA+np+/pduNidc6s="
         }
       ]
     },
     {
       "Route": "_framework/CurriculoInterativo.wasm",
-      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/tg214clj6i-8hlv8lzxw6.gz",
+      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/tg214clj6i-5mzrnp84q1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000123793018"
+          "Quality": "0.000122219506"
         }
       ],
       "ResponseHeaders": [
@@ -11515,15 +11515,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8077"
+          "Value": "8181"
         },
         {
           "Name": "ETag",
-          "Value": "\"OuoUNyjBRdbfAHCFx1zdvGVkn5cELI1G5gjIdpkNko8=\""
+          "Value": "\"1F0xiaKpBc6NZgdGFqIqsNAH/FP/AnoCDIUOEghdKOc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:48:30 GMT"
+          "Value": "Fri, 04 Apr 2025 13:07:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11543,19 +11543,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hJU/KjO4knqFUtb8dYCntDcKq58BgxLpFEhxsv/0lRQ=\""
+          "Value": "W/\"8xd1YtPlqWe9DLrVPKTQXKyFaefCA+np+/pduNidc6s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hJU/KjO4knqFUtb8dYCntDcKq58BgxLpFEhxsv/0lRQ="
+          "Value": "sha256-8xd1YtPlqWe9DLrVPKTQXKyFaefCA+np+/pduNidc6s="
         }
       ]
     },
     {
       "Route": "_framework/CurriculoInterativo.wasm.gz",
-      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/tg214clj6i-8hlv8lzxw6.gz",
+      "AssetFile": "/Users/ricardob/Documents/Prova/CurriculoInterativo/obj/Debug/net9.0/compressed/tg214clj6i-5mzrnp84q1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11564,7 +11564,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8077"
+          "Value": "8181"
         },
         {
           "Name": "Content-Type",
@@ -11572,11 +11572,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OuoUNyjBRdbfAHCFx1zdvGVkn5cELI1G5gjIdpkNko8=\""
+          "Value": "\"1F0xiaKpBc6NZgdGFqIqsNAH/FP/AnoCDIUOEghdKOc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:48:30 GMT"
+          "Value": "Fri, 04 Apr 2025 13:07:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11594,7 +11594,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OuoUNyjBRdbfAHCFx1zdvGVkn5cELI1G5gjIdpkNko8="
+          "Value": "sha256-1F0xiaKpBc6NZgdGFqIqsNAH/FP/AnoCDIUOEghdKOc="
         }
       ]
     },
